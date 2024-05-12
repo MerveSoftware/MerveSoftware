@@ -1,7 +1,30 @@
-- 👋 Hi, I’m @MerveSoftware
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning java, kotlin and flutter
-- 💞️ I want to cooperate in Mobile development
-- 📫 How to reach me : instagram @mervesoftware
-- ✨ e-posta adress : @mrvrsln.66@gmail.com 
+<h1 align="center">Merhaba 👋, ben Merve</h1>
+<h3 align="center">Türkiye'den bir arka uç ve mobil geliştiriciyim 🇹🇷</h3>
+
+<p align="left" > <img src = "https://komarev.com/ghpvc/?username=mervesoftware&label=Profile%20views&color=0e75b6&style=flat" alt = "mervesoftware" /> </p>
+
+<p align = "left"> <a href = "https://github.com/ryo-ma/github-profile-trophy"><img src = "https://github-profile-trophy.vercel.app/?username=mervesoftware" alt = "mervesoftware " /></a> </p>
+
+- 👨‍💻 Tüm projelerime [https://github.com/MerveSoftware](https://github.com/MerveSoftware) adresinden ulaşabilirsiniz
+
+- 📫 Bana nasıl ulaşabilirsiniz? **mrvrsln.66@gmail.com**
+
+- 📄 Deneyimlerimden haberdar olun [https://www.linkedin.com/in/mervesoftware](https://www.linkedin.com/in/mervesoftware)
+
+<h3 align ="left">Benimle bağlantı kurun:</h3>
+<p align="left">
+<a href="https://twitter.com/mervesoftware" target="blank"><img align="center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt = "mervesoftware" height = "30" genişlik = "40 " /></a>
+<a href = "https://linkedin.com/in/https://www.linkedin.com/in/mervesoftware" target = "blank"><img align = "center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin .com/in/mervesoftware" height = "30" genişlik = "40" /></a>
+<a href = "https://instagram.com/mervesoftware" target = "blank"><img align = "center " src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt = "mervesoftware" height = "30" genişlik = "40" /></a>
+<a href = "https://www.youtube.com/c/https://youtube.com/mervesoftware" target = "blank"><img align = "center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/mervesoftware" yükseklik ="30" width = "40" /></a>
+<a href = "https://www.leetcode.com/user1313yg" target = "blank"><img align = "center" src = "https: //raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt = "user1313yg" height = "30" genişlik = "40" /></a>
+<a href = "https://discord.gg/https://discord.com/invite/4d52nDcFkF" target= "blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt= "https://discord.com/invite/4d52nDcFkF" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Diller ve Araçlar:</h3>
+<p align = "left"> <a href = "https://developer.android.com" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons /devicon/master/icons/android/android-original-wordmark.svg" alt = "android" width = "40" height = "40"/> </a> <a href = "https://www.arduino .cc/" target = "_blank" rel = "noreferrer"> <img src = "https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt = "arduino" width = "40" yükseklik = "40"/> </a> <a href = "https://dart.dev" target = "_blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/ dartlang/dartlang-icon.svg" alt = "dart" width = "40" height = "40"/> </a> <a href = "https://www.docker.com/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt = "docker" width = "40" yükseklik ="40"/> </a> <a href = "https://firebase.google.com/" target = "_blank" rel = "noreferrer"> <img src = "https://www.vectorlogo. Zone/logos/firebase/firebase-icon.svg" alt = "firebase" width = "40" height = "40"/> </a> <a href = "https://flutter.dev" target = "_blank " rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt = "flutter" width = "40" height = "40"/> < /a> <a href = "https://git-scm.com/" target = "_blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/git-scm /git-scm-icon.svg" alt = "git" width = "40" height = "40"/> </a> <a href = "https://www.java.com" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt = "java" width = "40" height = " 40"/> </a> <a href = "https://kotlinlang.org" target = "_blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/kotlinlang /kotlinlang-icon.svg" alt = "kotlin" width = "40" height = "40"/> </a> <a href = "https://www.linux.org/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt = "linux" genişlik = "40" yükseklik = "40"/> </a> <a href = "https://www.mongodb.com/" target = "_blank" rel = "noreferrer"> <img src = "https: //raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt = "mongodb" width = "40" height = "40"/> </a> <a href ="https://www.mysql.com/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql -original-wordmark.svg" alt = "mysql" width = "40" height = "40"/> </a> <a href = "https://nodejs.org" target = "_blank" rel = "noreferrer" "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt = "nodejs" width = "40" yükseklik = "40" /> </a> <a href = "https://www.oracle.com/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/ devicon/master/icons/Oracle/Oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt = "postgresql" genişlik ="40" height = "40"/> </a> <a href = "https://postman.com" target = "_blank" rel = "noreferrer"> <img src = "https://www. Vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt = "postman" width = "40" height = "40"/> </a> <a href = "https://www.selenium.dev" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt = "selenium" width = " 40" height = "40"/> </a> <a href = "https://spring.io/" target = "_blank" rel = "noreferrer"> <img src = "https://www.vectorlogo .zone/logos/springio/springio-icon.svg" alt = "ilkbahar" genişlik = "40" yükseklik = "40"/> </a> </p>
+
+<p><img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=mervesoftware&show_icons=true&locale=en&layout=compact" alt = "mervesoftware" /> </p>
+
+<p><img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=mervesoftware&" alt = "mervesoftware" /></p>
 
